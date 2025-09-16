@@ -1,5 +1,5 @@
-#include "../../types/packets.cpp"
-#include "../session-manager.cpp"
+#include "../../types/packets.hpp"
+#include "../session-manager.hpp"
 
 void processConnect(ConnectPacket connectPacket){
     SessionManager sessManager = SessionManager::getInstance();

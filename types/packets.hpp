@@ -1,7 +1,7 @@
 #include <string>
 #include <map>
 #include <vector>
-#include "will-properties.cpp"
+#include "will-properties.hpp"
 
 struct ConnectFlags {
     bool username;
