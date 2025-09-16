@@ -1,3 +1,5 @@
+#include <string>
+
 struct WillProperties {
     uint32_t propertyLength;
     uint32_t willDelayInterval;
