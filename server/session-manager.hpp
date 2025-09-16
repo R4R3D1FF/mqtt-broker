@@ -1,6 +1,6 @@
 #include <unordered_map>
-#include "../types/packets.cpp"
-#include "../types/session-details.cpp"
+#include "../types/packets.hpp"
+#include "../types/session-details.hpp"
 
 
 class SessionManager
